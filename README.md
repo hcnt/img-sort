@@ -7,3 +7,8 @@ echo export PATH=$PATH:$(pwd) >> ~/.bashrc
 sudo apt install sxiv
 sudo apt install dmenu
 ```
+## Usage
+
+```
+img-sort .
+```
